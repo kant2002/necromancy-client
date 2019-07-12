@@ -1,0 +1,6 @@
+Disable encryption patch
+
+..\steam\WIZARDRYONLINE_UNPACKED.EXE
+000ECE2B: 01 00
+000EE97B: 01 00
+000FC15B: 01 00
